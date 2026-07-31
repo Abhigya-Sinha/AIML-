@@ -1,4 +1,4 @@
-# 🚀 Machine Learning, Computer Vision & Reinforcement Learning Portfolio
+# 🚀 MPONLINE AIML PROJECTS - FINAL SUBMISSIONS
 
 ---
 
@@ -6,9 +6,9 @@
 
 | Detail | Information |
 | :--- | :--- |
-| **Name** | Sneha Shaji |
-| **Registration Number** | 23BCY10024 |
-| **Application / Enrollment No.** | IN26011507 |
+| **Name** | Abhigya Sinha |
+| **Registration Number** | 23BCY10266 |
+| **Application / Enrollment No.** | IN26011513 |
 | **Batch** | 2B |
 | **Program** | B.Tech Computer Science and Engineering |
 | **University** | VIT Bhopal University |
@@ -17,14 +17,19 @@
 
 ## 📌 Projects Summary
 
-| # | Project | Domain | Model / Algorithm | Key Metric / Result |
-| :---: | :--- | :--- | :--- | :--- |
-| **1** | **Adult Census Income Prediction** | Tabular Classification | Random Forest | **85.37% Accuracy** |
-| **2** | **CIFAR-10 Image Classification** | Computer Vision | Custom CNN (3 Conv Blocks) | **71.02% Test Acc** |
-| **3** | **Brain Tumor Detection (MRI)** | Medical Imaging | Custom CNN + Dropout | **82.00% Val Acc** |
-| **4** | **LFW Face Recognition** | Face Recognition | Deep CNN Classifier | **Multi-Class Evaluation** |
-| **5** | **CartPole-v1 Control** | Reinforcement Learning | Tabular Q-Learning | **Policy Optimization** |
-| **6** | **LunarLander-v3 Landing** | Reinforcement Learning | PPO (Stable-Baselines3) | **100k Timesteps Trained** |
+| # | Project | 
+| :---: | :--- | 
+| **1** | **Adult Census Income Classification** |
+| **2** | **Cifar-10 Image Classification using CNN** |
+| **3** | **Face recognition using CNN in wild life (LFW Dataset).** |
+| **4** | **Cancer Detection using MRI images** |
+| **5** | **Cart-Pole RL agent Training** |
+| **6** | **Lunar Lander RL Agent Training** |
+| **7** | **Movie Recommendation System** |
+| **8** | **End to End Render Deployment Project** |
+| **9** | **Rag Chatbot (Capston Project)** |
+
+NOTE : - 8th and 9th is clubbed to one . Please visit https://rag-chatbot-practise.onrender.com  for the deployed version of the project. 
 
 ---
 
