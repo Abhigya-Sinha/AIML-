@@ -1,0 +1,24 @@
+# Secrets — never commit your real key
+.env
+ref.md
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+.venv/
+*.egg-info/
+
+# Embedding cache (regenerates automatically on first run/deploy)
+embeddings_cache.json
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
